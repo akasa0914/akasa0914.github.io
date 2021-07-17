@@ -20,9 +20,9 @@ h3{
 }
 .box1{
   padding: 0.5em 1em;
-  background: -moz-linear-gradient(blue,green);
-  background: -webkit-linear-gradient(blue,green);
-  background: linear-gradient(to right,blue,green);
+  background: -moz-linear-gradient(gold,black);
+  background: -webkit-linear-gradient(gold,black);
+  background: linear-gradient(to right,gold,black);
   color: white
 }
 .box1 p{
@@ -30,12 +30,11 @@ h3{
   padding: 0px;
 }
  body{
-    background-image: url(images/);
-    background-repeat: repeat-y;
-    background-size: cover;
-    height: 100vh;
-   margin: 0px;
-   padding: 0px;
+    padding: 0.5em 1em;
+    background: -moz-linear-gradient(blue,green);
+    background: -webkit-linear-gradient(blue,green);
+    background: linear-gradient(to right,blue,green);
+    color: white
  }
 li{
   color: white;
